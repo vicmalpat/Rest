@@ -19,7 +19,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 import java.util.Optional;
 
-public class pPrincipal extends Application {
+public class Principal extends Application {
     private HBox hbox, hHerramientas;
     private VBox vbox;
     private BorderPane bdpPrincipal;
